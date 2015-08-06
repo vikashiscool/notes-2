@@ -157,7 +157,7 @@ Having made some expressions it becomes evident we want to store these values.
 var myNumber = 1;
 // or also
 
-var myString = "Greetings y'all!"
+var myString = "Sup y'all!"
 ```
 
 The main note to make here is that these variables should always have the `var` keyword and use `camelCase`
@@ -181,6 +181,8 @@ Source: [http://searchsoa.techtarget.com/definition/object-oriented-programming]
   javascript might
   misunderstand you.
 */
+
+//Alternate syntax = ..
 1.toString()
 => Float Error
 // but the following works
@@ -190,7 +192,7 @@ Source: [http://searchsoa.techtarget.com/definition/object-oriented-programming]
 ### Arrays 
 
 Unfortunately, strings and numbers are not enough for most programming purposes. 
-What is needed are collections of data that we can use efficiently, Arrays.
+What is needed are collections of data (aka LISTS) that we can use efficiently-- *Arrays*.
 
 Arrays are great for:
 
