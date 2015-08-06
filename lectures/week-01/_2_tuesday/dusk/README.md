@@ -204,8 +204,8 @@ What is needed are collections of data (aka LISTS) that we can use efficiently--
 * Quickly reordering data 
 
 ```
-var friends = ['Moe', 'Larry', 'Curly'];
-=> ['Moe', 'Larry', 'Curly']
+var friends = ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot'];
+=> ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot']
 ```
 
 Items in an array are stored in sequential order, and indexed starting at `0` and ending at `length - 1`.
@@ -222,10 +222,10 @@ var lastFriend = friends[2]
 ### Strings like Arrays
 
 ```
-var friend = "bobby bottleservice";
+var friend = "Hingle McCringleberry";
 // pick out first character
 friend[0]
-//=> 'b'
+//=> 'H'
 friend.length
 ```
 
@@ -235,22 +235,19 @@ friend.length
 
 ```
 var friends = [
-                'Moe', 
-                'Larry', 
-                'Curly',
-                'Jane',
-                'Emma',
-                'Elizabeth',
-                'Elinor',
-                'Mary',
-                'Darcy',
-                'Grey',
-                'Lydia',
-                'Harriet'
+                'Saggitariutt Jefferspin',
+                'D-Glester Hardunkichud',
+                'Swirvithan L. Goodling-Splatt',
+                'Quatro Quatro',
+                'Ozamataz Buckshank',
+                'Beezer Twelve Washingbeard',
+                'D-Isiah T. Billings-Clyde',
+                'D-Jasper Probincrux III',
+                'Leoz Maxwell Jilliumz',
               ];
 ```
 
-Add your name to the end of the `friends` and add another name to beginning. Change the `Elizabeth` to `Liz`.
+Add your name to the end of the `friends` and add another name to beginning. Change the `Quatro Quatro` to `Dan Smith`.
 
 **2.**) Go to MDN and lookup `Array.sort`. Sort the list of `friends` above
 
