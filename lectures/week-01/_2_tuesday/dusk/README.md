@@ -39,7 +39,7 @@ Comments come in two forms
   * multiline comments
   
   ```
-  /**
+  /*
     These 
     are
     comments on
