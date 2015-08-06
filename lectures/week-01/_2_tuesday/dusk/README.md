@@ -139,16 +139,6 @@ Math.random()
 Math.random()*10
 ```
 
-* Since Numbers can be **Floats** or **Integers** we often want to get rid of remaining decimal places, which can be done using `Math.floor`.
-
-```
-// Remove the decimal
-Math.floor(3.14)
-=> 3
-Math.floor(3.9999)
-=> 3
-```
-
 ## Variables and Keywords
 
 Having made some expressions it becomes evident we want to store these values.
