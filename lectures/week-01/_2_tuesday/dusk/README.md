@@ -6,10 +6,10 @@
 
 | Students should be able to...|
 | :----- |
-| Identify the major javascript datatypes and implement the appropriate syntax to create them |
+| Identify the major javascript (JS) datatypes and implement the appropriate syntax to create them |
 | Utilize the most commonly-used methods associated with each datatype and hypothesize outputs |
-| Introduce object-oriented programming, define javascript objects, and provide examples |
-| Apply mehtods and objects to solve basic javascript algorithm problems |
+| Introduce object-oriented programming, define JS objects, and provide examples |
+| Apply methods and objects to solve basic JS algorithm problems |
 
 
 ## Agenda
