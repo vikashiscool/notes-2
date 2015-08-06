@@ -26,6 +26,13 @@
   * False
   * Javascript Object Literal 
 
+## Think-pair-share (3 minutes)
+
+Use the Googles to research: 
+* The history of Javascript
+* Javascript's defining themes
+* Some of the major Javascript frameworks
+
 
 ## Comments
 
@@ -94,6 +101,8 @@ You can also create expressions with strings using addition
 ```
 
 This is called **String Concatentation.**
+
+https://s-media-cache-ak0.pinimg.com/originals/fe/91/a3/fe91a3dc38b1981226c5c025fc759674.gif
 
 
 ### Special Number Operators
