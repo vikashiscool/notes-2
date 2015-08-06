@@ -102,7 +102,7 @@ You can also create expressions with strings using addition
 
 This is called **String Concatentation.**
 
-https://s-media-cache-ak0.pinimg.com/originals/fe/91/a3/fe91a3dc38b1981226c5c025fc759674.gif
+![mind blown.](https://s-media-cache-ak0.pinimg.com/originals/fe/91/a3/fe91a3dc38b1981226c5c025fc759674.gif)
 
 
 ### Special Number Operators
