@@ -166,7 +166,7 @@ The main note to make here is that these variables should always have the `var` 
 
 In Javascript we just discussed two types of values we can use. We call these values objects, which for now just means that in addition to storing some data you also get to use some helpful methods when you are working with them.
 
-(As a sidenote, **Object-oriented programming (OOP)** is a programming language model organized around *objects* rather than "actions" and *data* rather than logic.  Object-oriented programming takes the view that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. 
+(As a sidenote, *Object-oriented programming (OOP)* is a programming language model organized around **objects* rather than "actions" and **data** rather than logic.  What we really care about are the objects we want to manipulate rather than the logic required to manipulate them. 
 
 Source: [http://searchsoa.techtarget.com/definition/object-oriented-programming](http://searchsoa.techtarget.com/definition/object-oriented-programming)
 
@@ -191,7 +191,10 @@ Source: [http://searchsoa.techtarget.com/definition/object-oriented-programming]
 
 ### Arrays 
 
-Unfortunately, strings and numbers are not enough for most programming purposes. 
+Unfortunately, strings and numbers are not enough for most programming purposes.
+
+http://rack.3.mshcdn.com/media/ZgkyMDEzLzA3LzE4Lzc1L0RyLldoby41Mjg5ZC5naWYKcAl0aHVtYgkxMjAweDk2MDA-/571ec44d/6da/Dr.-Who.gif
+
 What is needed are collections of data (aka LISTS) that we can use efficiently-- *Arrays*.
 
 Arrays are great for:
