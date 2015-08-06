@@ -1,6 +1,4 @@
 # Javascript Primitives
-## Intro to Programming fundamentals
-
 
 ## Objectives
 
