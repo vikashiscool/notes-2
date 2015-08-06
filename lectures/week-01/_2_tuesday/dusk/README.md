@@ -195,9 +195,9 @@ Unfortunately, strings and numbers are not enough for most programming purposes.
 
 ![sad](http://rack.3.mshcdn.com/media/ZgkyMDEzLzA3LzE4Lzc1L0RyLldoby41Mjg5ZC5naWYKcAl0aHVtYgkxMjAweDk2MDA-/571ec44d/6da/Dr.-Who.gif)
 
-What is needed are collections of data (aka LISTS) that we can use efficiently-- *Arrays*.
+What is needed are collections of data (aka LISTS) that we can use efficiently-- **Arrays**.
 
-Arrays are great for:
+#### Arrays are great for:
 
 * Storing data
 * Enumerating data, i.e. using an index to find them.
