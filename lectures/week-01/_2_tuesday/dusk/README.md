@@ -11,9 +11,8 @@
 
 
 ## Agenda
-* Brainstorm (Ruby v. Javascript)
 * History of Javascript
-* Understand Data Types
+* Understand Datatypes
   * Comments
   * Numbers
   * Strings
