@@ -166,6 +166,10 @@ The main note to make here is that these variables should always have the `var` 
 
 In Javascript we just discussed two types of values we can use. We call these values objects, which for now just means that in addition to storing some data you also get to use some helpful methods when you are working with them.
 
+(As a sidenote, **Object-oriented programming (OOP)** is a programming language model organized around *objects* rather than "actions" and *data* rather than logic.  Object-oriented programming takes the view that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. 
+
+Source: (http://searchsoa.techtarget.com/definition/object-oriented-programming)[http://searchsoa.techtarget.com/definition/object-oriented-programming]
+
 * If you want to turn a number into a string you can use a helpful method called `toString`.
 
 ```
