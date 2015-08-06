@@ -41,15 +41,15 @@ Comments come in two forms
   ```
   /*
     These 
-    are
-    comments on
-    many lines
+    are comments
+    on many lines.
+    wowe
   */
   
   ```
 ## Numbers 
 
-Numbers are one of the *types* of **values** we want to be able to interact and play with in JS.
+Numbers are one of the *types* of **values** we want to be able to interact with in JS. But not all numbers are created equal:
 
 * Integers
 
