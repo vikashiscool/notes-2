@@ -50,7 +50,7 @@ Comments come in two forms
     These 
     are comments
     on many lines.
-    wowe
+    wowe.
   */
   
   ```
