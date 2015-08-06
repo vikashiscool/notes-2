@@ -4,7 +4,7 @@
 
 ## Objectives
 
-| Objectives -- Students should be able to...|
+| Students should be able to...|
 | :----- |
 | Identify the major javascript datatypes and implement the appropriate syntax to create them |
 | Utilize the most commonly-used methods associated with each datatype and hypothesize outputs |
