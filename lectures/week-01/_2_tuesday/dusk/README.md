@@ -4,9 +4,12 @@
 
 ## Objectives
 
-| Objectives |
+| Objectives -- Students should be able to...|
 | :----- |
-| To manipulate datatypes and create expressions in JS |
+| Identify the major javascript datatypes and implement the appropriate syntax to create them |
+| Utilize the most commonly-used methods associated with each datatype and hypothesize outputs |
+| Introduce object-oriented programming, define javascript objects, and provide examples |
+| Apply mehtods and objects to solve basic javascript algorithm problems |
 
 
 ## Agenda
