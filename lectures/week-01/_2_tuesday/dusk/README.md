@@ -192,8 +192,8 @@ What is needed are collections of data (aka LISTS) that we can use efficiently--
 * Quickly reordering data 
 
 ```
-var friends = ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot'];
-=> ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot']
+var friends = ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot Bear'];
+=> ['Funshine Bear', 'Cheer Bear', 'Love-a-Lot Bear']
 ```
 
 Items in an array are stored in sequential order, and indexed starting at `0` and ending at `length - 1`.
