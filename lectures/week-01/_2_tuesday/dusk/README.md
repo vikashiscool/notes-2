@@ -49,7 +49,7 @@ Comments come in two forms
   ```
 ## Numbers 
 
-Numbers are one of the *types* of **values** we want to be able to interact with in JS. But not all numbers are created equal:
+Numbers are one of the *types* of **values** we want to be able to interact with in JS. But not all numbers are created equal (#JSpuns):
 
 * Integers
 
@@ -62,16 +62,16 @@ Numbers are one of the *types* of **values** we want to be able to interact with
    2.718, 3.14, .5, .25, etc
   ```
 
-In JS these are the same **type** of object, which it calls *Numbers*, so if you know floats and integers don not go looking for them.
+In JS these are the same **type** of object, which it calls *numbers*.
 
 ## Strings
 
-Strings are collections of letters and symbols known as **Characters**, and we use them to deal with words and text in Javascript. Strings are just another type of **value** in Javascript.
+Strings are collections of letters and symbols known as **characters**, and we use them to deal with words and text in Javascript. Strings are just another type of **value** in Javascript.
 
 ```
-"John", or  'Jane'
+"John" or  'Jane' or "John and Jane just jumped joyously."
 ```
-
+You can use double-quotes `("...")` or single-quotes `('...')` to designate strings, as long as you're consistent. 
 
 
 ## Values and Expressions
